@@ -1,0 +1,1 @@
+This python script usesc openv to detect face in real time from web cam feed.
